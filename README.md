@@ -5,18 +5,15 @@
 Welcome to my GitHub profile! I am a passionate and dedicated software engineer with a strong foundation in full-stack development and a keen interest in solving complex problems, currently learning several programming languages including C, Python, SQL, JavaScript, HTML, and CSS. I strive to create efficient, scalable, and innovative solutions to address real-world challenges.
 
 ## Skills
-- **Languages**: Java, Python, JavaScript, C#, SQL
-- **Frameworks/Libraries**: React.js, Node.js, Express.js, Spring Boot, Angular
-- **Database Systems**: MySQL, PostgreSQL, MongoDB
+- **Languages**: C, Python, shell scripting, JavaScript, SQL
 - **Version Control**: Git, GitHub
-- **Tools**: Docker, Jenkins, Jira, Agile/Scrum
-- **Cloud Platforms**: AWS, Azure
+- **Tools**: Vscode, vim, etc
 
 ## Projects
-### Project 1: [Project Title]
-- **Description**: A web application developed using React.js and Node.js to streamline task management and collaboration within teams. Implemented real-time updates and notifications using WebSockets.
-- **Technologies**: React.js, Node.js, MongoDB, WebSocket, REST APIs
-- [GitHub Repository](link)
+### Project 1: Custom Commands
+- **Description**: A program written in shell scripting and C language to streamline task management and automate lots of basic eeryday tasks.
+- **Technologies**: Shell scripting and C language
+- [custom_commands](https://github.com/DafetiteOgaga/custom_commands)
 
 ### Project 2: [Project Title]
 - **Description**: An e-commerce platform built with Angular and Spring Boot, providing a seamless shopping experience for users. Integrated payment gateways and ensured data security.
