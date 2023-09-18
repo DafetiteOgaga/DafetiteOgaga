@@ -1,4 +1,4 @@
-# Hi 👋 My name is Ogaga Dafetite
+# Hi 👋 My name is Dafetite Ogaga
 **Software Engineer | Full Stack Developer | Problem Solver**
 
 ## Overview
@@ -22,9 +22,6 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
-- **Languages**: C, Python, shell scripting, JavaScript, SQL
-- **Version Control**: Git, GitHub
-- **Tools**: Vscode, vim, etc
 
 ## Projects
 ### Project 1: Custom Commands
@@ -50,7 +47,13 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 
 ## Contact
 - **Email**: ogagadafetite@gmail.com
-- [CV](https://github.com/DafetiteOgaga/CV/blob/master/Dafetite_Ogaga_SE.pdf)
+- **Curriculum** **Vitae**: [CV](https://github.com/DafetiteOgaga/CV/blob/master/Dafetite_Ogaga_SE.pdf)
+
+### Socials
+
+<p align="left"> <a href="https://discordapp.com/users/937085989942345768" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://github.com/DafetiteOgaga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ogagadafetite" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/dafetite_ogaga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+<a href="https://github.com/DafetiteOgaga" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DafetiteOgaga&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 Feel free to explore my repositories and reach out to me for collaboration, questions, or opportunities. Let's innovate and build amazing things together! 😊🚀
 
