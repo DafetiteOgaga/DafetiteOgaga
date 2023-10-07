@@ -4,7 +4,7 @@
 ## Overview
 Welcome to my GitHub profile! I am a passionate and dedicated software engineer with a strong foundation in full-stack development and a keen interest in solving complex problems, currently learning several programming languages including C, Python, SQL, JavaScript, HTML, and CSS. I strive to create efficient, scalable, and innovative solutions to address real-world challenges.
 
-* 🌍  I'm based in Nigeria, Lagos.
+* 🌍  I'm based in Lagos, Nigeria.
 <!-- * 🖥️  See my blog at [hashnode](https://sophiaintech.hashnode.dev/) -->
 * ✉️  You can reach out to me via [Email me](mailto:ogagadafetite@gmail.com)
 * 🚀  I'm currently working towards being a Full-Stack Engineer.
