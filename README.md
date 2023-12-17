@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 
 ## Projects
 ### Project 1: Custom Commands
-- **Description**: A program written in shell scripting and C language to streamline task management and automate lots of basic eeryday tasks.
+- **Description**: A program written in shell scripting, python and C language to streamline task management and automate lots of basic everyday tasks.
 - **Technologies**: Shell scripting and C language
 - [custom_commands](https://github.com/DafetiteOgaga/custom_commands)
 
@@ -50,6 +50,7 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 ## Contact
 - **Email**: ogagadafetite@gmail.com
 - **Curriculum** **Vitae**: [CV](https://github.com/DafetiteOgaga/CV/blob/master/Dafetite_Ogaga_SE.pdf)
+- **Resume**: [Resume](https://github.com/DafetiteOgaga/CV/blob/master/Dafetite_Ogaga_SE.pdf)
 
 ### Socials
 
