@@ -2,7 +2,7 @@
 **Software Engineer | Full Stack Developer | Problem Solver**
 
 ## Overview
-Welcome to my GitHub profile! I am a passionate and dedicated software engineer with a strong foundation in full-stack development and a keen interest in solving complex problems, currently learning several programming languages including C, Python, SQL, JavaScript, HTML, and CSS. I strive to create efficient, scalable, and innovative solutions to address real-world challenges.
+Welcome to my GitHub profile! I am a passionate and dedicated software engineer with a strong foundation in full-stack development and a keen interest in solving complex problems, i have experience in several programming languages including C, Python, bash scripting. batch scripting, powershell scripting, SQL, JavaScript, HTML, and CSS. I strive to create efficient, scalable, and innovative solutions to address real-world challenges.
 
 * 🌍  I'm based in Lagos, Nigeria.
 <!-- * 🖥️  See my blog at [hashnode](https://sophiaintech.hashnode.dev/) -->
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-<a href="https://github.com/DafetiteOgaga" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DafetiteOgaga&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/DafetiteOgaga" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DafetiteOgaga&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 ## Projects
 ### Project 1: Custom Commands
