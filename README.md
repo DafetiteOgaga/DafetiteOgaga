@@ -41,11 +41,26 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 - Regularly engage in code reviews, providing constructive feedback and fostering a culture of continuous improvement within the development teams.
 
 ## Certifications
+- Google IT Automation with Python
+- Technical Support Fundamentals
+- System Administration and IT Infrastructure Services
+- Automating Real-World Tasks with Python
+- IT Security: Defense against the digital dark arts
+- Introduction to Git and GitHub
+- Operating Systems and You: Becoming a Power User
+- Configuration Management and the Cloud
+- The Bits and Bytes of Computer Networking
+- Troubleshooting and Debugging Techniques
+- Introduction to Containers w/ Docker, Kubernetes & OpenShift
+- Using Python to Interact with the Operating System
+- Crash Course on Python
+- C Programming: Using Linux Tools and Libraries
 - Programming Foundations: Fundamentals, Databases
 - Learning Python
 - The Open Web Application Security Project (OWASP)
 - Project Management Foundations
 - Communication Foundations
+
 
 ## Contact
 - **Email**: ogagadafetite@gmail.com
