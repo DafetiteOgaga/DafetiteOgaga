@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 
 ## Certifications
 - Google IT Automation with Python
+- Google IT Support
 - Technical Support Fundamentals
 - System Administration and IT Infrastructure Services
 - Automating Real-World Tasks with Python
