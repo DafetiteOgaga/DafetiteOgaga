@@ -1,4 +1,4 @@
-# Hi 👋 My name is Dafetite Ogaga
+# Hi 👋 I am Dafetite Ogaga
 **Software Engineer | Full Stack Developer | Problem Solver**
 
 ## Overview
