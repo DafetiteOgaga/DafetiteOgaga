@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Hi 👋 My name is Dafetite Ogaga
 **Software | Automation | Technical | IT Support | Customer | Engineer || Frontend | Backend Developer**
+=======
+# Hi 👋 I am Dafetite Ogaga
+**Software Engineer | Full Stack Developer | Problem Solver**
+>>>>>>> 72a63fcbd64cf590cde103e00161930edd0bc0c3
 
 ## Overview
 Welcome to my GitHub profile! I am a passionate and dedicated software engineer with a strong foundation in full-stack development and a keen interest in solving complex problems, i have experience in several programming languages including C, Python, bash scripting. batch scripting, powershell scripting, SQL, JavaScript, HTML, and CSS. I strive to create efficient, scalable, and innovative solutions to address real-world challenges.
