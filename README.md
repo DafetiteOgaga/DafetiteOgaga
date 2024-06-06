@@ -1,26 +1,42 @@
 # Hi 👋 My name is Dafetite Ogaga
-**Software Engineer | Full Stack Developer | Problem Solver**
+**Software | Automation | Technical | IT Support | Customer | Engineer || Frontend | Backend Developer**
 
 ## Overview
 Welcome to my GitHub profile! I am a passionate and dedicated software engineer with a strong foundation in full-stack development and a keen interest in solving complex problems, i have experience in several programming languages including C, Python, bash scripting. batch scripting, powershell scripting, SQL, JavaScript, HTML, and CSS. I strive to create efficient, scalable, and innovative solutions to address real-world challenges.
 
 * 🌍  I'm based in Lagos, Nigeria.
 <!-- * 🖥️  See my blog at [hashnode](https://sophiaintech.hashnode.dev/) -->
-* ✉️  You can reach out to me via [Email me](mailto:ogagadafetite@gmail.com)
-* 🚀  I'm currently working towards being a Full-Stack Engineer.
-* 🧠  I'm learning and improving myself on everythig about Software Engineering.
+
 * 🤝  I'm open to collaborating on interesting projects.
+* ✉️  You can reach out to me via [Email me](mailto:ogagadafetite@gmail.com)
 
 ## Skills
 <p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
   <img src="https://d33wubrfki0l68.cloudfront.net/306f655dcc33cc3d958cab80d78d3f2da427974c/a2bd8/img/logo/svg/full_colored_dark.svg" width="36" height="36" alt="Shell Scripting" />
 </a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" width="36" height="36" alt="django" />
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo.png" width="36" height="36" alt="django" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" width="36" height="36" alt="bootstrap" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="36" height="36" alt="CSS" />
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="36" height="36" alt="figma" />
+</a>
 </p>
 
 <!-- <a href="https://github.com/DafetiteOgaga" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DafetiteOgaga&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
@@ -41,9 +57,22 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 - Regularly engage in code reviews, providing constructive feedback and fostering a culture of continuous improvement within the development teams.
 
 ## Certifications
+- Meta Front-End Developer Specialization
+- Meta Back-End Developer Specialization
 - Google IT Automation with Python
 - Google IT Support
+- Programming in Python
+- Programming with JavaScript
+- Django Web Framework
+- Advanced React
+- React Basics
+- The Full Stack
+- APIs
+- Principles of UX/UI Design
+- HTML and CSS in depth
+- Version Control
 - Technical Support Fundamentals
+- Introduction to Databases for Back-End Development
 - System Administration and IT Infrastructure Services
 - Automating Real-World Tasks with Python
 - IT Security: Defense against the digital dark arts
@@ -75,4 +104,4 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 Feel free to explore my repositories and reach out to me for collaboration, questions, or opportunities. Let's innovate and build amazing things together! 😊🚀
 
 
-###### We Rise by Lifting Others.
+###### *We Rise by Lifting Others.*
