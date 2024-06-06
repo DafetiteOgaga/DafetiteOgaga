@@ -10,22 +10,9 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 * 🤝  I'm open to collaborating on interesting projects.
 * ✉️  You can reach out to me via [Email me](mailto:ogagadafetite@gmail.com)
 
-<style>
-  .icon-container {
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-  }
-
-  .icon-container a {
-    padding: 0 10px;
-  }
-</style>
-
 ## Skills
 <p>
-<div class="icon-container">
-<a padding="0 10px" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
   <img src="https://d33wubrfki0l68.cloudfront.net/306f655dcc33cc3d958cab80d78d3f2da427974c/a2bd8/img/logo/svg/full_colored_dark.svg" width="36" height="36" alt="Shell Scripting" />
 </a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
@@ -50,7 +37,6 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="36" height="36" alt="figma" />
 </a>
-</div>
 </p>
 
 <!-- <a href="https://github.com/DafetiteOgaga" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DafetiteOgaga&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
@@ -112,8 +98,8 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 - **Resume**: [Resume](https://github.com/DafetiteOgaga/Resume/blob/main/R_Dafetite_Ogaga_SE.pdf)
 
 ### Socials
-<p>
-<div class="icon-container"> <a href="https://discordapp.com/users/937085989942345768" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://github.com/DafetiteOgaga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ogagadafetite" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/dafetite_ogaga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></div></p>
+
+<p> <a href="https://discordapp.com/users/937085989942345768" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://github.com/DafetiteOgaga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ogagadafetite" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/dafetite_ogaga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 Feel free to explore my repositories and reach out to me for collaboration, questions, or opportunities. Let's innovate and build amazing things together! 😊🚀
 
