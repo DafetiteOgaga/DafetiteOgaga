@@ -2,7 +2,7 @@
 **Software | Automation | Technical | IT Support | Customer | Engineer || Frontend | Backend Developer**
 
 ## Overview
-Welcome to my GitHub profile! I am a passionate and dedicated software engineer with a strong foundation in full-stack development and a keen interest in solving complex problems, i have experience in several programming languages including C, Python, bash scripting. batch scripting, powershell scripting, SQL, JavaScript, HTML, and CSS. I strive to create efficient, scalable, and innovative solutions to address real-world challenges.
+Welcome to my GitHub profile! I am a passionate and dedicated software engineer with a strong foundation in full-stack development and a keen interest in solving complex problems, I have experience in several programming languages and technologies including C, Python, bash scripting, batch scripting, powershell scripting, SQL, JavaScript, HTML, and CSS. I strive to create efficient, scalable, and innovative solutions to address real-world challenges.
 
 * 🌍  I'm based in Lagos, Nigeria.
 <!-- * 🖥️  See my blog at [hashnode](https://sophiaintech.hashnode.dev/) -->
