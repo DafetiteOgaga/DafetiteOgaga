@@ -46,59 +46,64 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 ## Projects
 ### Project 1: Custom Commands
 - **Description**: A program written in shell scripting, python and C language to streamline task management and automate lots of basic everyday tasks.
-- **Technologies**: Shell, scripting, and C language
+- **Technologies**: Bash, python and C language
 - [custom_commands](https://github.com/DafetiteOgaga/custom_commands)
 
-### Project 2: A Creonovo 'Reserve a table' Backend-component feature
+### Project 2: dafetite (my website)
+- **Description**: showcasing my skills, projects and added links to my social media handles.
+- **Technologies**: HTML5, CSS, JavaScript, Figma, ReactJS
+- [dafetite-ogaga](https://github.com/DafetiteOgaga/dafetite)
+
+### Project 3: A Creonovo 'Reserve a table' Backend-component feature
 - **Description**: A 'Reserve a table' feature for the creonovo backend website.
 Created using Django web framework and Django Rest framework.
 - **Technologies**: HTML5, CSS, Python, MySQL, Django, DRF, JavaScript
 - [creonovo_restaurant-backend-component](https://github.com/DafetiteOgaga/creonovo_restaurant-backend-component)
 
-### Project 3: Creonovo Gardens
+### Project 4: Creonovo Gardens
 - **Description**: A One-stop garden for the lovers of nature.
 Created using HTML and CSS.
 - **Technologies**: HTML5 and CSS
 - [creonovo-gardens](https://github.com/DafetiteOgaga/creonovo-gardens)
 
-### Project 4: Creonovo Restaurant
+### Project 5: Creonovo Restaurant
 - **Description**: An online restaurant well known for its delicious African dishes.
 Created using Django web framework and Django Rest framework.
 - **Technologies**: HTML5, CSS, Python, MySQL, Django, DRF, JavaScript
 - [creonovo_restaurant](https://github.com/DafetiteOgaga/creonovo_restaurant)
 
-### Project 5: Creonovo Website Restaurant
+### Project 6: Creonovo Restaurant Website
 - **Description**: An online restaurant and a perfect place to go eat your favorite African meals.
 Created using ReactJS.
 - **Technologies**: HTML5, CSS, JavaScript Figma, ReactJS
 - [creonovo-website](https://github.com/DafetiteOgaga/creonovo-website)
 
-### Project 6: Dafetite Ogaga (my website)
+### Project 7: Dafetite Ogaga
 - **Description**: showcasing my skills, projects and added links to my social media handles.
 - **Technologies**: HTML5, CSS, JavaScript Figma, ReactJS
 - [dafetite-ogaga](https://github.com/DafetiteOgaga/dafetite-ogaga)
 
-### Project 7: LittleLemon backend component using django
+### Project 8: LittleLemon backend component using django
 - **Description**: LittleLemon is a backend component that provides database management and is responsible for CRUD (Create, Read, Update, Delete) operations necessary for frontend frameworks. It exposes API endpoints to interact with the data stored in the database..
 - **Technologies**: HTML5, CSS, Python, MySQL, Django, DRF, JavaScript
 - [littlelemon_backend_component](https://github.com/DafetiteOgaga/littlelemon_backend_component)
 
-### Project 8: Betty Wrapper(For termux mobile app)
+### Project 9: Betty Wrapper(For termux mobile app)
 - **Description**: Another program written in shell scripting which solves the challenges faces with the installation of the Betty linter on termux mobile app running on android phones.
 - **Technologies**: Shell scripting
 - [betty_wrapper](https://github.com/DafetiteOgaga/betty_wrapper)
 
-### Project 9: binary search in a game
+### Project 10: binary search in a game
 - **Description**: This program demonstrates the working principle of Binary Search Algorithm..
 - **Technologies**: Python
 - [Binary_search_in_a_game](https://github.com/DafetiteOgaga/Binary_search_in_a_game)
 
-### Project 10: dsa-linkedlist
+### Project 11: dsa-linkedlist
 - **Description**: This program is written in C and creates a linked list based on user input. Then prints out the elements of the list..
 - **Technologies**: C language
 - [dsa-linkedlist](https://github.com/DafetiteOgaga/dsa-linkedlist)
 
-### Project 11: pdf2docx Converter
+### Project 12: pdf2docx Converter
 - **Description**: Converts pdf files to docx file format.
 - **Technologies**: Python
 - [pdf2docx_converter](https://github.com/DafetiteOgaga/pdf2docx_converter)
