@@ -127,7 +127,7 @@ Created using ReactJS.
 </p>
 
 ## Certifications
-##### Click [here](https://www.linkedin.com/in/ogagadafetite/details/certifications/) to see all certifications
+### Click [here](https://www.linkedin.com/in/ogagadafetite/details/certifications/) to see all certifications
 - Meta Front-End Developer Specialization
 - Meta Back-End Developer Specialization
 - Google IT Automation with Python
