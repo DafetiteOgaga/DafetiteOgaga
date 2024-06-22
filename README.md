@@ -160,6 +160,7 @@ Created using ReactJS.
 - The Open Web Application Security Project (OWASP)
 - Project Management Foundations
 - Communication Foundations
+- Click [here](https://www.linkedin.com/in/ogagadafetite/details/certifications/) to see all certifications
 
 
 Feel free to explore my repositories and reach out to me for collaboration, questions, or opportunities. Let's innovate and build amazing things together! 😊🚀
