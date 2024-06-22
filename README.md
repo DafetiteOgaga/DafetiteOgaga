@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 ### Project 2: dafetite (my website)
 - **Description**: showcasing my skills, projects and added links to my social media handles.
 - **Technologies**: HTML5, CSS, JavaScript, Figma, ReactJS
-- [dafetite-ogaga](https://github.com/DafetiteOgaga/dafetite)
+- [dafetite](https://github.com/DafetiteOgaga/dafetite)
 
 ### Project 3: A Creonovo 'Reserve a table' Backend-component feature
 - **Description**: A 'Reserve a table' feature for the creonovo backend website.
