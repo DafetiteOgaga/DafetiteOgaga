@@ -115,8 +115,8 @@ Created using ReactJS.
 
 ## Contact
 - **Email**: ogagadafetite@gmail.com
-- **Curriculum** **Vitae**: [CV](https://github.com/DafetiteOgaga/CV/blob/master/C_Dafetite_Ogaga_SE.pdf)
-- **Resume**: [Resume](https://github.com/DafetiteOgaga/Resume/blob/main/R_Dafetite_Ogaga_SE.pdf)
+- **Curriculum** **Vitae**: [CV](https://github.com/DafetiteOgaga/CV/blob/master/Dafetite_Ogaga.pdf)
+- **Resume**: [Resume](https://github.com/DafetiteOgaga/Resume/blob/main/Dafetite_Ogaga.pdf)
 
 ## Socials
 <p>
