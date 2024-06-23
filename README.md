@@ -44,6 +44,7 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 <!-- <a href="https://github.com/DafetiteOgaga" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DafetiteOgaga&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 ## Projects
+#### [Click here](https://github.com/DafetiteOgaga?tab=repositories) to view all projects
 ### Project 1: Custom Commands
 - **Description**: A program written in shell scripting, python and C language to streamline task management and automate lots of basic everyday tasks.
 - **Technologies**: Bash, python and C language
@@ -107,8 +108,6 @@ Created using ReactJS.
 - **Description**: Converts pdf files to docx file format.
 - **Technologies**: Python
 - [pdf2docx_converter](https://github.com/DafetiteOgaga/pdf2docx_converter)
-
-#### [Click here](https://github.com/DafetiteOgaga?tab=repositories) to view all projects
 
 
 ## Contributions
