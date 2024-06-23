@@ -108,6 +108,8 @@ Created using ReactJS.
 - **Technologies**: Python
 - [pdf2docx_converter](https://github.com/DafetiteOgaga/pdf2docx_converter)
 
+### [Click here](https://github.com/DafetiteOgaga?tab=repositories) to view all projects
+
 
 ## Contributions
 - Actively contributing to open-source projects and participating in hackathons to collaborate with other developers and broaden my skill set.
