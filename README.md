@@ -1,4 +1,4 @@
-# Hi 👋 My name is Dafetite Ogaga
+# Hi 👋 I am Dafetite
 **Software | Automation | Technical | IT Support | Customer | Engineer || Frontend | Backend Developer**
 
 ## Overview
