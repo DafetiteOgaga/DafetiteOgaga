@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 
 * 🤝  I'm open to collaborating on interesting projects.
 * ✉️  You can reach out to me via [Email me](mailto:ogagadafetite@gmail.com)
-* My website (personal-profile): [Profile](https://dafetiteogaga.github.io/dafetite/)
+* My Portfolio website: [Portfolio](https://dafetiteogaga.github.io/dafetite/)
 * Creonovo website: [Creonovo](https://dafetiteogaga.github.io/dafetite/)
 * Article Hive website: [Article-Hive](https://dafetiteogaga.github.io/article-hive/)
 
