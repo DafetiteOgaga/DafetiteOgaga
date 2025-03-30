@@ -17,29 +17,44 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 
 ## Skills
 <p>
+<!-- bash -->
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
   <img src="https://d33wubrfki0l68.cloudfront.net/306f655dcc33cc3d958cab80d78d3f2da427974c/a2bd8/img/logo/svg/full_colored_dark.svg" width="36" height="36" alt="Shell Scripting" />
 </a>
+<!-- c language -->
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
 </a>
+<!-- javascript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
+<!-- react -->
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
 </a>
+<!-- react native -->
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="./react-native.png" width="36" height="36" alt="React Native" />
+</a>
+<!-- python -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </a>
+<!-- django -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" width="36" height="36" alt="django" />
 </a>
+<!-- django rest framework -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo.png" width="36" height="36" alt="django" />
 </a>
+<!-- bootsrap -->
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" width="36" height="36" alt="bootstrap" />
 </a>
+<!-- html5 -->
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
 </a>
+<!-- css -->
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="36" height="36" alt="CSS" />
 </a>
+<!-- mysql -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
 </a>
+<!-- figma -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="36" height="36" alt="figma" />
 </a>
 </p>
