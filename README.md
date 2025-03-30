@@ -1,5 +1,5 @@
 # Hi 👋 I am Dafetite
-**Software | Automation | Technical | IT Support | Customer | Engineer || Frontend | Backend Developer**
+**Software | Automation | Technical | IT Support | Customer | Engineer || Frontend | Backend | Mobile App Developer**
 
 ## Overview
 Welcome to my GitHub profile! I am a passionate and dedicated software engineer with a strong foundation in full-stack development and a keen interest in solving complex problems, I have experience in several programming languages and technologies including C, Python, bash scripting, batch scripting, powershell scripting, SQL, JavaScript, HTML, and CSS. I strive to create efficient, scalable, and innovative solutions to address real-world challenges.
@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 * 🤝  I'm open to collaborating on interesting projects.
 * ✉️  You can reach out to me via [Email me](mailto:ogagadafetite@gmail.com)
 * My Portfolio website: [Portfolio](https://dafetiteogaga.github.io/dafetite/)
-* Altaviz Support Limited (WebApp): [Altaviz Support Limited](https://altaviz-frontend.vercel.app/). A fully functioning webapp
+* Altaviz Support Limited (WebApp): [Altaviz Support Limited](https://altaviz-frontend.vercel.app/). A fully functioning web and mobile apps
+* Techflows Engineering: [Techflows](https://dafetiteogaga.github.io/techflows/). A Tech website.
 * Article Hive (The WebApp): [Article-Hive](https://dafetite.pythonanywhere.com/). A fully functioning webapp
 * Creonovo website: [Creonovo](https://dafetiteogaga.github.io/dafetite/)
 * Article Hive website: [Article-Hive](https://dafetiteogaga.github.io/article-hive/)
@@ -37,10 +38,10 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </a>
 <!-- django -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" width="36" height="36" alt="django" style='background-color:rgb(255, 255, 255)' />
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" width="36" height="36" alt="django" style='background-color:rgb(226, 226, 226)' />
 </a>
 <!-- django rest framework -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo.png" width="36" height="36" alt="django" style='background-color:rgb(255, 255, 255)' />
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo.png" width="36" height="36" alt="django" style='background-color:rgb(226, 226, 226)' />
 </a>
 <!-- bootsrap -->
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" width="36" height="36" alt="bootstrap" />
@@ -139,9 +140,13 @@ Created using ReactJS.
 
 ## Socials
 <p>
+<!-- linkedin -->
 <a href="https://www.linkedin.com/in/ogagadafetite" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<!-- twitter -->
 <a href="https://twitter.com/dafetite_ogaga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<!-- github -->
 <a href="https://github.com/DafetiteOgaga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<!-- discord -->
 <a href="https://discordapp.com/users/937085989942345768" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
 
