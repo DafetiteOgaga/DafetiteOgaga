@@ -34,6 +34,9 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 <!-- react native -->
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="./react-native.png" width="55" height="36" alt="React Native" />
 </a>
+<!-- expo go -->
+<a href="https://expo.dev/" target="_blank" rel="noreferrer"><img src="./expo.png" width="55" height="36" alt="expo go" />
+</a>
 <!-- python -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </a>
