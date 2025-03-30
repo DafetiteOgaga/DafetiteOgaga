@@ -37,10 +37,10 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </a>
 <!-- django -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" width="36" height="36" alt="django" style='background-color:rgb(226, 226, 226)' />
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" width="36" height="36" alt="django" style='background-color:rgb(255, 255, 255)' />
 </a>
 <!-- django rest framework -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo.png" width="36" height="36" alt="django" style='background-color:rgb(226, 226, 226)' />
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo.png" width="36" height="36" alt="django" style='background-color:rgb(255, 255, 255)' />
 </a>
 <!-- bootsrap -->
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" width="36" height="36" alt="bootstrap" />
