@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 <p>
 <!-- bash -->
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://d33wubrfki0l68.cloudfront.net/306f655dcc33cc3d958cab80d78d3f2da427974c/a2bd8/img/logo/svg/full_colored_dark.svg" width="36" height="36" alt="Shell Scripting" />
+  <img src="https://d33wubrfki0l68.cloudfront.net/306f655dcc33cc3d958cab80d78d3f2da427974c/a2bd8/img/logo/svg/full_colored_dark.svg" style='background-color:rgb(226, 226, 226)' width="36" height="40" alt="Shell Scripting" />
 </a>
 <!-- c language -->
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
@@ -37,10 +37,10 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </a>
 <!-- django -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" width="36" height="36" alt="django" />
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" width="36" height="36" alt="django" style='background-color:rgb(226, 226, 226)' />
 </a>
 <!-- django rest framework -->
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo.png" width="36" height="36" alt="django" />
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo.png" width="36" height="36" alt="django" style='background-color:rgb(226, 226, 226)' />
 </a>
 <!-- bootsrap -->
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" width="36" height="36" alt="bootstrap" />
