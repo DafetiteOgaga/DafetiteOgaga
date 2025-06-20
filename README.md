@@ -1,14 +1,21 @@
 # Hi 👋 I am Dafetite
+<table width="100%">
+  <tr>
+    <td><h3>Hi 👋 I am Dafetite</h3></td>
+    <td style="text-align: right;"><img src=".dafetite-ogaga-logo.png" alt="dafetite ogaga" width="100" height="60"></td>
+  </tr>
+</table>
+
 **Software | Automation | Technical | IT Support | Customer | Engineer || Frontend | Backend | Mobile App Developer**
 
 ## Overview
 Welcome to my GitHub profile! I am a passionate and dedicated software engineer with a strong foundation in full-stack development and a keen interest in solving complex problems, I have experience in several programming languages and technologies including C, Python, bash scripting, batch scripting, powershell scripting, SQL, JavaScript, HTML, and CSS. I strive to create efficient, scalable, and innovative solutions to address real-world challenges.
 
-* 🌍  I'm based in Lagos, Nigeria.
+* 🌍 I'm based in Lagos, Nigeria.
 <!-- * 🖥️  See my blog at [hashnode](https://sophiaintech.hashnode.dev/) -->
 
-* 🤝  I'm open to collaborating on interesting projects.
-* ✉️  You can reach out to me via [Email me](mailto:ogagadafetite@gmail.com)
+* 🤝 I'm open to collaborating on interesting projects.
+* ✉️ You can reach out to me via [Email me](mailto:ogagadafetite@gmail.com)
 * My Portfolio website: [Portfolio](https://dafetiteogaga.github.io/dafetite/)
 * Altaviz Support Limited (WebApp): [Altaviz Support Limited](https://altaviz-frontend.vercel.app/). A fully functioning web and mobile apps
 * Techflows Engineering: [Techflows](https://dafetiteogaga.github.io/techflows/). A Tech website.
