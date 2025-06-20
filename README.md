@@ -1,5 +1,5 @@
 <p align="end">
-  <img src=".dafetite-ogaga-logo.png" alt="Dafetite Ogaga logo" width="100" />
+  <img src="dafetite-ogaga-logo.png" alt="Dafetite Ogaga" width="100" />
 </p>
 
 # Hi 👋 I am Dafetite
