@@ -5,7 +5,7 @@
     <td style="text-align: right;"><img src=".dafetite-ogaga-logo.png" alt="dafetite ogaga" width="120" height="60"></td>
   </tr>
 </table> -->
-<p align="center">
+<p align="end">
   <img src=".dafetite-ogaga-logo.png" alt="Dafetite Ogaga logo" width="150" />
 </p>
 
