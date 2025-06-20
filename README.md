@@ -1,8 +1,8 @@
 # Hi 👋 I am Dafetite
 <table width="100%">
   <tr>
-    <td><h3 style="font-size: 36px;">Hi 👋 I am Dafetite</h3></td>
-    <td style="text-align: right;"><img src=".dafetite-ogaga-logo.png" alt="dafetite ogaga" width="80" height="60"></td>
+    <td><h3 # >Hi 👋 I am Dafetite</h3></td>
+    <td style="text-align: right;"><img src=".dafetite-ogaga-logo.png" alt="dafetite ogaga" width="120" height="60"></td>
   </tr>
 </table>
 
