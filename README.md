@@ -1,3 +1,7 @@
+<p align="end">
+  <img src=".dafetite-ogaga-logo.png" alt="Dafetite Ogaga logo" width="100" />
+</p>
+
 # Hi 👋 I am Dafetite
 <!-- <table width="100%">
   <tr>
@@ -5,9 +9,6 @@
     <td style="text-align: right;"><img src=".dafetite-ogaga-logo.png" alt="dafetite ogaga" width="120" height="60"></td>
   </tr>
 </table> -->
-<p align="end">
-  <img src=".dafetite-ogaga-logo.png" alt="Dafetite Ogaga logo" width="150" />
-</p>
 
 **Software | Automation | Technical | IT Support | Customer | Engineer || Frontend | Backend | Mobile App Developer**
 
