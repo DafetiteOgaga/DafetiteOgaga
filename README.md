@@ -2,7 +2,7 @@
 <table width="100%">
   <tr>
     <td><h3 style="font-size: 36px;">Hi 👋 I am Dafetite</h3></td>
-    <td style="text-align: right;"><img src=".dafetite-ogaga-logo.png" alt="dafetite ogaga" width="100" height="60"></td>
+    <td style="text-align: right;"><img src=".dafetite-ogaga-logo.png" alt="dafetite ogaga" width="120" height="70"></td>
   </tr>
 </table>
 
