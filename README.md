@@ -1,10 +1,13 @@
 # Hi 👋 I am Dafetite
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td><h3 # >Hi 👋 I am Dafetite</h3></td>
     <td style="text-align: right;"><img src=".dafetite-ogaga-logo.png" alt="dafetite ogaga" width="120" height="60"></td>
   </tr>
-</table>
+</table> -->
+<div align="center">
+  <img width="400" src="docs/logo.svg" alt="bic">
+</div>
 
 **Software | Automation | Technical | IT Support | Customer | Engineer || Frontend | Backend | Mobile App Developer**
 
