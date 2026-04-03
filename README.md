@@ -20,11 +20,11 @@ Welcome to my GitHub profile! I am a passionate and dedicated software engineer 
 
 * 🤝 I'm open to collaborating on interesting projects.
 * ✉️ You can reach out to me via [Email me](mailto:ogagadafetite@gmail.com)
-* My Portfolio website: [Portfolio](https://dafetiteogaga.github.io/dafetite/)
+* My Portfolio website: [Portfolio](https://dafetite.pages.dev/)
 * Altaviz Support Limited (WebApp): [Altaviz Support Limited](https://altaviz-frontend.vercel.app/). A fully functioning web and mobile apps
 * Techflows Engineering: [Techflows](https://dafetiteogaga.github.io/techflows/). A Tech website.
 * Article Hive (The WebApp): [Article-Hive](https://dafetite.pythonanywhere.com/). A fully functioning webapp
-* Creonovo website: [Creonovo](https://dafetiteogaga.github.io/dafetite/)
+* Creonovo website: [Creonovo](https://dafetite.pages.dev/)
 * Article Hive website: [Article-Hive](https://dafetiteogaga.github.io/article-hive/)
 
 ## Skills
